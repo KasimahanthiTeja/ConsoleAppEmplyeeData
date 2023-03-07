@@ -1,0 +1,8 @@
+C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\obj\Debug\ConsoleAppemployeedata.csproj.AssemblyReference.cache
+C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\obj\Debug\ConsoleAppemployeedata.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\obj\Debug\ConsoleAppemployeedata.csproj.CoreCompileInputs.cache
+C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\bin\Debug\ConsoleAppemployeedata.exe.config
+C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\bin\Debug\ConsoleAppemployeedata.exe
+C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\bin\Debug\ConsoleAppemployeedata.pdb
+C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\obj\Debug\ConsoleAppemployeedata.exe
+C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\obj\Debug\ConsoleAppemployeedata.pdb

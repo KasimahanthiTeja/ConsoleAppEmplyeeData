@@ -1,0 +1,29 @@
+﻿Build started...
+1>------ Build started: Project: ConsoleAppemployeedata, Configuration: Debug Any CPU ------
+1>C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\Program.cs(13,17,13,19): warning CS0219: The variable 'W1' is assigned but its value is never used
+1>C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\Program.cs(14,20,14,22): warning CS0219: The variable 'I1' is assigned but its value is never used
+1>C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\Program.cs(15,20,15,22): warning CS0219: The variable 'I2' is assigned but its value is never used
+1>C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\Program.cs(16,21,16,23): warning CS0219: The variable 'I3' is assigned but its value is never used
+1>C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\Program.cs(17,17,17,19): warning CS0219: The variable 'X1' is assigned but its value is never used
+1>C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\Program.cs(18,17,18,19): warning CS0219: The variable 'W2' is assigned but its value is never used
+1>C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\Program.cs(19,20,19,22): warning CS0219: The variable 'J1' is assigned but its value is never used
+1>C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\Program.cs(20,20,20,22): warning CS0219: The variable 'J2' is assigned but its value is never used
+1>C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\Program.cs(21,21,21,23): warning CS0219: The variable 'J3' is assigned but its value is never used
+1>C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\Program.cs(22,17,22,19): warning CS0219: The variable 'X2' is assigned but its value is never used
+1>C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\Program.cs(23,17,23,19): warning CS0219: The variable 'W3' is assigned but its value is never used
+1>C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\Program.cs(24,20,24,22): warning CS0219: The variable 'K1' is assigned but its value is never used
+1>C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\Program.cs(25,20,25,22): warning CS0219: The variable 'K2' is assigned but its value is never used
+1>C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\Program.cs(26,21,26,23): warning CS0219: The variable 'K3' is assigned but its value is never used
+1>C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\Program.cs(27,17,27,19): warning CS0219: The variable 'X3' is assigned but its value is never used
+1>C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\Program.cs(28,17,28,19): warning CS0219: The variable 'W4' is assigned but its value is never used
+1>C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\Program.cs(29,20,29,22): warning CS0219: The variable 'L1' is assigned but its value is never used
+1>C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\Program.cs(30,20,30,22): warning CS0219: The variable 'L2' is assigned but its value is never used
+1>C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\Program.cs(31,21,31,23): warning CS0219: The variable 'L3' is assigned but its value is never used
+1>C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\Program.cs(32,17,32,19): warning CS0219: The variable 'X4' is assigned but its value is never used
+1>C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\Program.cs(33,17,33,19): warning CS0219: The variable 'W5' is assigned but its value is never used
+1>C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\Program.cs(34,20,34,22): warning CS0219: The variable 'M1' is assigned but its value is never used
+1>C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\Program.cs(35,20,35,22): warning CS0219: The variable 'M2' is assigned but its value is never used
+1>C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\Program.cs(36,21,36,23): warning CS0219: The variable 'M3' is assigned but its value is never used
+1>C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\Program.cs(37,17,37,19): warning CS0219: The variable 'X5' is assigned but its value is never used
+1>  ConsoleAppemployeedata -> C:\Users\Kasimahanthi Teja\source\repos\ConsoleAppemployeedata\ConsoleAppemployeedata\bin\Debug\ConsoleAppemployeedata.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
